@@ -15,5 +15,6 @@ public class AppTest
     @Test
     public void teatabc(){
         System.out.println("abc.......");
+        System.out.println("fenzhicaozuo");
     }
 }
